@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "GetWaterAmountIntent"
+    },
+    {
+      "intent": "DeleteWaterAmountIntent"
+    },
+    {
+      "intent": "AddWaterAmountIntent",
+      "slots": [
+        {
+          "name": "glassNumber",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+ }

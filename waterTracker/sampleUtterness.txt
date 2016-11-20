@@ -1,0 +1,6 @@
+AddWaterAmountIntent add {glassNumber} glasses of water
+GetWaterAmountIntent how much water did I drink today
+GetWaterAmountIntent amount of water today
+AddWaterAmountIntent add {glassNumber}
+DeleteWaterAmountIntent clear data for today
+DeleteWaterAmountIntent reset today's data
